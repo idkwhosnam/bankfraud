@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-mergeDebugResources-4:\\layout\\fragment_transfer.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-main-7:\\layout\\fragment_transfer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-mergeDebugResources-4:\\layout\\fragment_login.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-main-7:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "com.trustlog.bankfraud.app-mergeDebugResources-4:/layout/activity_main.xml",
+        "source": "com.trustlog.bankfraud.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-mergeDebugResources-4:\\layout\\fragment_terms.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-main-7:\\layout\\fragment_terms.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-mergeDebugResources-4:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-mergeDebugResources-4:\\layout\\fragment_result.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-main-7:\\layout\\fragment_result.xml"
+    }
+]

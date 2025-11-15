@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/termsFragment">
+
+    <fragment
+        android:id="@+id/termsFragment"
+        android:name="com.trustlog.bankfraud.ui.terms.TermsFragment"
+        android:label="Terms">
+        <action
+            android:id="@+id/action_termsFragment_to_loginFragment"
+            app:destination="@id/loginFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.trustlog.bankfraud.ui.login.LoginFragment"
+        android:label="Login">
+        <action
+            android:id="@+id/action_loginFragment_to_transferFragment"
+            app:destination="@id/transferFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/transferFragment"
+        android:name="com.trustlog.bankfraud.ui.transfer.TransferFragment"
+        android:label="Transfer">
+        <action
+            android:id="@+id/action_transferFragment_to_resultFragment"
+            app:destination="@id/resultFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/resultFragment"
+        android:name="com.trustlog.bankfraud.ui.result.ResultFragment"
+        android:label="Result" />
+</navigation>

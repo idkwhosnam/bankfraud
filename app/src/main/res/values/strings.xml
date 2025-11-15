@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">TrustLog</string>
+    <string name="terms_title">Điều khoản sử dụng</string>
+    <string name="terms_body">Đây là ứng dụng MÔ PHỎNG phục vụ nghiên cứu khoa học, không phải ứng dụng ngân hàng thật. Mọi thông tin giao dịch đều là giả lập và không có giá trị. Chúng tôi sẽ thu thập dữ liệu cảm biến trên thiết bị của bạn.</string>
+    <string name="terms_checkbox">Tôi đã đọc, hiểu và đồng ý tham gia</string>
+    <string name="action_start">Bắt đầu</string>
+    <string name="label_email">Điền Email</string>
+    <string name="label_name">Điền Tên</string>
+    <string name="action_login">Đăng nhập</string>
+    <string name="error_email_invalid">Email phải sử dụng đuôi @gmail.com</string>
+    <string name="error_name_invalid">Tên chỉ gồm chữ cái và khoảng trắng (3-40 ký tự)</string>
+    <string name="error_amount_invalid">Số tiền tối thiểu 1.000 và phải có dấu chấm ngăn cách</string>
+    <string name="error_inputs_invalid">Thông tin chưa hợp lệ</string>
+    <string name="transfer_title">Chuyển tiền</string>
+    <string name="balance_template">Số dư: %1$s VND</string>
+    <string name="sender_template">Tên người gửi: %1$s</string>
+    <string name="receiver_template">Tên người nhận: %1$s</string>
+    <string name="input_transfer_amount">Nhập số tiền chuyển</string>
+    <string name="action_transfer">Chuyển tiền</string>
+    <string name="otp_title">Xác thực Digital OTP</string>
+    <string name="otp_message">Nhập mã OTP gồm 6 số để tiếp tục</string>
+    <string name="otp_pad_delete">Xóa</string>
+    <string name="otp_pad_close">Đóng</string>
+    <string name="otp_pad_paste">Dán</string>
+    <string name="result_success">Chuyển tiền thành công</string>
+    <string name="result_success_subtitle">Hệ thống xác nhận bạn là người dùng thật.</string>
+    <string name="result_locked">Tài khoản đã khoá!</string>
+    <string name="result_locked_subtitle">Cảm biến ghi nhận dấu hiệu bất thường. Hệ thống đã tạm ngưng giao dịch.</string>
+    <string name="score_template">Điểm đánh giá: %1$.1f</string>
+    <string name="cta_exit">Thoát</string>
+    <string name="warning_title">Thiết bị nghi ngờ</string>
+    <string name="warning_body">Hệ thống ghi nhận cảm biến có thay đổi đáng ngờ. App TrustLog tạm thời không hoạt động để bảo vệ tài khoản của bạn.</string>
+    <string name="action_close_app">Đóng ứng dụng</string>
+    <string name="logo_text">TrustLog</string>
+    <string name="placeholder_receiver">Nguyen Van A</string>
+</resources>

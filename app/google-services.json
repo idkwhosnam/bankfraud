@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "740276085016",
+    "project_id": "trustlog-8cc7a",
+    "storage_bucket": "trustlog-8cc7a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740276085016:android:ea887acdd21342cff6fe6d",
+        "android_client_info": {
+          "package_name": "com.trustlog.bankfraud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClhA7kZWcdASDS6jU2Mm5F8q4kOYKlK1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

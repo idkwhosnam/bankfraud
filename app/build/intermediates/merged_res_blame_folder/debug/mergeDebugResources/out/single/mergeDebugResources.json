@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-debug-5:\\layout_fragment_terms.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-main-7:\\layout\\fragment_terms.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-debug-5:\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-main-7:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-debug-5:\\drawable_ic_shield.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-main-7:\\drawable\\ic_shield.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-debug-5:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-main-7:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-debug-5:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-main-7:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-debug-5:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-main-7:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.trustlog.bankfraud.app-debug-5:/layout_activity_main.xml.flat",
+        "source": "com.trustlog.bankfraud.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-debug-5:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-main-7:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-debug-5:\\layout_fragment_result.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-main-7:\\layout\\fragment_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-debug-5:\\drawable_bg_result_badge.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-main-7:\\drawable\\bg_result_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-debug-5:\\layout_fragment_transfer.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-main-7:\\layout\\fragment_transfer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-debug-5:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-main-7:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-debug-5:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-main-7:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-debug-5:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-debug-5:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\9.0-milestone-1\\com.trustlog.bankfraud.app-main-7:\\xml\\backup_rules.xml"
+    }
+]
